@@ -1,5 +1,10 @@
 {
   "name": "image-meta-loader",
+  "description": "Import image meta for webpack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oott123/image-meta-loader.git"
+  },
   "version": "1.0.1",
   "main": "src/image-meta.js",
   "author": "oott123 <git@public.oott123.com>",
