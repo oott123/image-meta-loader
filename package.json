@@ -1,6 +1,6 @@
 {
   "name": "image-meta-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/image-meta.js",
   "author": "oott123 <git@public.oott123.com>",
   "license": "MIT",
