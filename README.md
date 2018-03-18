@@ -3,7 +3,7 @@
 Import image meta from your code (using webpack).
 
 ```js
-console.log(require('image-meta!./logo.png'))
+console.log(require('image-meta-loader!./logo.png'))
 // { type: 'png', size: { width: 200, height: 200 } }
 ```
 
@@ -17,7 +17,7 @@ yarn add -D image-meta-loader
 
 ## Usage
 
-Just add `image-meta!` before your regular require/import expressions.
+Just add `image-meta-loader!` before your regular require/import expressions.
 
 ## License
 
