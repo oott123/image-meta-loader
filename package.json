@@ -1,0 +1,16 @@
+{
+  "name": "image-meta-loader",
+  "version": "1.0.0",
+  "main": "src/image-meta.js",
+  "author": "oott123 <git@public.oott123.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "3"
+  },
+  "dependencies": {
+    "image-size": "^0.6.2"
+  },
+  "devDependencies": {
+    "file-loader": "^1.1.11"
+  }
+}
